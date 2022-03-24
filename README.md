@@ -3,7 +3,7 @@
 <p align="center"><b>I'm a FRONTEND DEVELOPER🧑‍💻.</b></p>
 <br/>
 <div align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=DevTomilola&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=DevTomilola&theme=react&show_icons=true&include_all_commits=true&show=contribs,prs" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTomilola&theme=react&layout=compact" />
 </div>
 <div align="center">
